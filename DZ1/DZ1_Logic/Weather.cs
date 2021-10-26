@@ -73,20 +73,7 @@ namespace DZ1_Logic
             return 0;
         }
 
-        public static Weather FindWeatherWithLargestWindchill(Weather[] weathers)
-        {
-            Weather max = weathers[0];
-            int i;
-
-            for (i = 0; i < weathers.Length; i++)
-            {
-                if (weathers[i].CalculateWindChill() > max.CalculateWindChill())
-                    max = weathers[i];
-            }
-
-            return max;
-
-        }
+        
 
 
     }

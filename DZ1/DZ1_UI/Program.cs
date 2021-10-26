@@ -11,6 +11,13 @@ namespace DZ1_UI
     {
         static void Main(string[] args)
         {
+
+            RunDemoForHW1();
+
+        }
+
+        private static void RunDemoForHW1()
+        {
             Weather current = new Weather();
             current.SetTemperature(24.12);
             current.SetWindSpeed(3.5);
@@ -33,13 +40,26 @@ namespace DZ1_UI
                 weathers[i] = new Weather(temperatures[i], humidities[i], windSpeeds[i]);
                 Console.WriteLine("Windchill for weathers[" + i + "] is: " + weathers[i].CalculateWindChill());
             }
-            Weather largestWindchill = Weather.FindWeatherWithLargestWindchill(weathers);
+            Weather largestWindchill = FindWeatherWithLargestWindchill(weathers);
             Console.WriteLine(
                 "Weather info:" + largestWindchill.GetTemperature() + ", " +
                 largestWindchill.GetHumidity() + ", " + largestWindchill.GetWindSpeed()
             );
+        }
 
-        
+        private static Weather FindWeatherWithLargestWindchill(Weather[] weathers)
+        {
+            Weather max = weathers[0];
+            int i;
+
+            for (i = 0; i < weathers.Length; i++)
+            {
+                if (weathers[i].CalculateWindChill() > max.CalculateWindChill())
+                    max = weathers[i];
+            }
+
+            return max;
+
         }
     }
 }
