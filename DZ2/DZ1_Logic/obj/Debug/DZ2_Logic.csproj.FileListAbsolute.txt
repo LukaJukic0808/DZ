@@ -1,7 +1,0 @@
-C:\Users\lukaj\source\repos\DZ1\DZ1_Logic\bin\Debug\DZ1_Logic.dll.config
-C:\Users\lukaj\source\repos\DZ1\DZ1_Logic\bin\Debug\DZ1_Logic.dll
-C:\Users\lukaj\source\repos\DZ1\DZ1_Logic\bin\Debug\DZ1_Logic.pdb
-C:\Users\lukaj\source\repos\DZ1\DZ1_Logic\obj\Debug\DZ2_Logic.csproj.AssemblyReference.cache
-C:\Users\lukaj\source\repos\DZ1\DZ1_Logic\obj\Debug\DZ2_Logic.csproj.CoreCompileInputs.cache
-C:\Users\lukaj\source\repos\DZ1\DZ1_Logic\obj\Debug\DZ1_Logic.dll
-C:\Users\lukaj\source\repos\DZ1\DZ1_Logic\obj\Debug\DZ1_Logic.pdb
