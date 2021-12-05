@@ -1,0 +1,11 @@
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\obj\Debug\DZ1_UI.csproj.AssemblyReference.cache
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\obj\Debug\DZ1_UI.csproj.CoreCompileInputs.cache
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\bin\Debug\DZ1_UI.exe.config
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\bin\Debug\DZ1_UI.exe
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\bin\Debug\DZ1_UI.pdb
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\bin\Debug\DZ1_Logic.dll
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\bin\Debug\DZ1_Logic.pdb
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\bin\Debug\DZ1_Logic.dll.config
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\obj\Debug\DZ1_UI.exe
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\obj\Debug\DZ1_UI.pdb
+C:\Users\lukaj\source\repos\DZ1\DZ1_UI\obj\Debug\DZ1_UI.csproj.CopyComplete
